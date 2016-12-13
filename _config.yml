@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://wejick.github.io
+title: Gian Giovani
+tagline: In My Honest Opinion
+description: My awesome new site
+paginate: 5
