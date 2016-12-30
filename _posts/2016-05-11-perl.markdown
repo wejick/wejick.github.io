@@ -1,0 +1,19 @@
+---
+author: wejick
+comments: true
+date: 2016-05-11 12:31:46+00:00
+layout: post
+link: http://blog.ggiovani.com/perl/
+slug: perl
+title: Exploring Perl
+wordpress_id: 87
+categories:
+- Programming
+tags:
+- perl
+- web
+---
+
+Recently I'm trying to learn as much as possible in the short time about Perl and it's environment. It is really big challenge for me, not only Perl as new thing but also the whole web programming.
+
+My understanding of perl is really shallow for now, the sintax, package management, the paradigm are all different than C/C++. Hope I can share my journey step by step on this blog, don't miss it ;)
